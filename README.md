@@ -5,7 +5,7 @@
 ## Contacts
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link={link})]({link})
 [![Gmail Badge](https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:gwiyeomgo@gmail.com)](mailto:gwiyeomgo@gmail.com)
- [![Tech Blog Badge](http://img.shields.io/badge/-Tech%20blog-black?style=flat-square&logo=github&link={link})](link)
+ [![Tech Blog Badge](http://img.shields.io/badge/-Tech%20blog-black?style=flat-square&logo=github&link=https://gwiyeomgo.github.io/developmentRecords/)](https://gwiyeomgo.github.io/developmentRecords/)
 
 
 
