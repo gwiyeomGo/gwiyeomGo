@@ -1,26 +1,26 @@
 # GWI YEOM GO 👋
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
+
 
 ## Contacts
-[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link={link})]({link})
+[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/gwiyeom-go-aba947229/)](https://www.linkedin.com/in/gwiyeom-go-aba947229/)
 [![Gmail Badge](https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:gwiyeomgo@gmail.com)](mailto:gwiyeomgo@gmail.com)
- [![Tech Blog Badge](http://img.shields.io/badge/-Tech%20blog-black?style=flat-square&logo=github&link=https://gwiyeomgo.github.io/developmentRecords/)](https://gwiyeomgo.github.io/developmentRecords/)
+ [![Tech Blog Badge](http://img.shields.io/badge/-Tech%20blog-black?style=flat-square&logo=github&link=https://gwiyeomgo.github.io/blog/)](https://gwiyeomgo.github.io/blog/)
 
 
 
 ## Tech 
 
 Languages:
--   ![Javascript Badge](https://img.shields.io/badge/Javascript-3766AB?style=flat-square&logo=Javascript&logoColor=white) - Javascript
-- ![Golang Badge](https://img.shields.io/badge/Golang-3766AB?style=flat-square&logo=Go&logoColor=white) - Golang
-- ![Mysql Badge](https://img.shields.io/badge/Mysql-3766AB?style=flat-square&logo=Mysql&logoColor=white) - Mysql
+- ![Javascript Badge](https://img.shields.io/badge/Javascript-F0DB4F?style=flat-square&logo=Javascript&logoColor=white) - Javascript
+- ![Golang Badge](https://img.shields.io/badge/Golang-29BEB0?style=flat-square&logo=Go&logoColor=white) - Golang
+- ![Mysql Badge](https://img.shields.io/badge/Mysql-00758F?style=flat-square&logo=Mysql&logoColor=white) - Mysql
 
 <!--
 **gwiyeomgo/gwiyeomgo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
-
+- 🔭 I’m currently working on ...
+- 🌱 I’m currently learning ...
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
 - 👯 I’m looking to collaborate on ...
