@@ -11,9 +11,9 @@
 ## Tech 
 
 Languages:
-- ![Javascript Badge](https://img.shields.io/badge/Javascript-F0DB4F?style=flat-square&logo=Javascript&logoColor=white) - Javascript
-- ![Golang Badge](https://img.shields.io/badge/Golang-29BEB0?style=flat-square&logo=Go&logoColor=white) - Golang
-- ![Mysql Badge](https://img.shields.io/badge/Mysql-00758F?style=flat-square&logo=Mysql&logoColor=white) - Mysql
+- ![Javascript Badge](https://img.shields.io/badge/Javascript-F0DB4F?style=flat-square&logo=Javascript&logoColor=white) - React 프레임워크, Antd,Material UI 라이브러리 사용
+- ![Golang Badge](https://img.shields.io/badge/Golang-29BEB0?style=flat-square&logo=Go&logoColor=white) - Echo 프레임워크 사용, go TESTCASE 개발
+- ![Mysql Badge](https://img.shields.io/badge/Mysql-00758F?style=flat-square&logo=Mysql&logoColor=white)  
 
 <!--
 **gwiyeomgo/gwiyeomgo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
