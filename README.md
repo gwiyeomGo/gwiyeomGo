@@ -9,12 +9,18 @@
 
 
 ## Tech 
-
-Languages:
-- ![Javascript Badge](https://img.shields.io/badge/Javascript-F0DB4F?style=flat-square&logo=Javascript&logoColor=white) - React 라이브러리, Antd,Material UI 라이브러리 사용
-- ![Golang Badge](https://img.shields.io/badge/Golang-29BEB0?style=flat-square&logo=Go&logoColor=white) - Echo 프레임워크 사용, go TESTCASE 개발
-- ![Mysql Badge](https://img.shields.io/badge/Mysql-00758F?style=flat-square&logo=Mysql&logoColor=white)  
-
+<div align="center">
+  <h2 align="center">☾⋆⁺₊⋆Clicking on a tag takes you to a list of related records 🌻️⋆⁺₊⋆</h2>
+  <hr/>
+  <p >
+      <a href="https://gwiyeomgo.github.io/tags/javascript"><img src="https://img.shields.io/badge/JAVASCRIPT-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/></a>
+      <a href="https://gwiyeomgo.github.io/tags/react"><img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB"/></a>
+      <a href="https://gwiyeomgo.github.io/tags/golang"><img src="https://img.shields.io/badge/GOLANG-00ADD8?style=for-the-badge&logo=go&logoColor=white"/></a>
+      <a href="https://gwiyeomgo.github.io/tags/mysql"><img src="https://img.shields.io/badge/MYSQL-4479A1?style=for-the-badge&logo=MySQL&logoColor=white"/></a>
+      <a href="https://gwiyeomgo.github.io/tags/mysql"><img src="https://img.shields.io/badge/SQLite-07405E?style=for-the-badge&logo=sqlite&logoColor=white"/></a>
+      <a href="https://gwiyeomgo.github.io/tags/git"><img src="https://img.shields.io/badge/GIT-07405E?style=for-the-badge&logo=sqlite&logoColor=white"/></a>
+  </p>
+<div/>
 <!--
 **gwiyeomgo/gwiyeomgo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
