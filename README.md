@@ -1,14 +1,13 @@
-# GWI YEOM GO 👋
 
 
-## Contacts
+<div align="center">
+	
+##  GWI YEOM GO Contacts 👋
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/gwiyeom-go-aba947229/)](https://www.linkedin.com/in/gwiyeom-go-aba947229/)
 [![Gmail Badge](https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:gwiyeomgo@gmail.com)](mailto:gwiyeomgo@gmail.com)
  [![Tech Blog Badge](http://img.shields.io/badge/-Tech%20blog-black?style=flat-square&logo=github&link=https://gwiyeomgo.github.io/blog/)](https://gwiyeomgo.github.io/)
- 
-<div align="center">
+
   <h2 align="center">☾⋆⁺₊⋆Clicking on a tag takes you to a list of related records 🌻️⋆⁺₊⋆</h2>
-  <hr/>
   <p >
       <a href="https://gwiyeomgo.github.io/tags/javascript"><img src="https://img.shields.io/badge/JAVASCRIPT-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/></a>
       <a href="https://gwiyeomgo.github.io/tags/react"><img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB"/></a>
