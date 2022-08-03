@@ -3,9 +3,14 @@
 <div align="center">
 	
 ##  GWI YEOM GO Contacts 👋
-[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/gwiyeom-go-aba947229/)](https://www.linkedin.com/in/gwiyeom-go-aba947229/)
-[![Gmail Badge](https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:gwiyeomgo@gmail.com)](mailto:gwiyeomgo@gmail.com)
- [![Tech Blog Badge](http://img.shields.io/badge/-Tech%20blog-black?style=flat-square&logo=github&link=https://gwiyeomgo.github.io/blog/)](https://gwiyeomgo.github.io/)
+[![Linkedin](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/gwiyeom-go-aba947229/)](https://www.linkedin.com/in/gwiyeom-go-aba947229/)
+[![Gmail](https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:gwiyeomgo@gmail.com)](mailto:gwiyeomgo@gmail.com)
+ [![Tech Blog ](http://img.shields.io/badge/-Tech%20blog-black?style=flat-square&link=https://gwiyeomgo.github.io/blog/)](https://gwiyeomgo.github.io/)
+ [![GitHub ](http://img.shields.io/badge/GitHub-yellow?style=flat-square&logo=GitHub&logoColor=white&link=https://github.com/gwiyeomgo)](https://github.com/gwiyeomgo)
+
+  </p>
+<div/>
+<!--
 
   <h2 align="center">☾⋆⁺₊⋆Clicking on a tag takes you to a list of related records 🌻️⋆⁺₊⋆</h2>
   <p >
@@ -15,9 +20,7 @@
       <a href="https://gwiyeomgo.github.io/tags/mysql"><img src="https://img.shields.io/badge/MYSQL-4479A1?style=for-the-badge&logo=MySQL&logoColor=white"/></a>
       <a href="https://gwiyeomgo.github.io/tags/mysql"><img src="https://img.shields.io/badge/SQLite-07405E?style=for-the-badge&logo=sqlite&logoColor=white"/></a>
       <a href="https://gwiyeomgo.github.io/tags/git"><img src="https://img.shields.io/badge/GIT-07405E?style=for-the-badge&logo=sqlite&logoColor=white"/></a>
-  </p>
-<div/>
-<!--
+      
 **gwiyeomgo/gwiyeomgo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
